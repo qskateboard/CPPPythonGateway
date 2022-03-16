@@ -27,4 +27,7 @@
   <ItemGroup>
     <Library Include="python39.lib" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="main.py" />
+  </ItemGroup>
 </Project>
